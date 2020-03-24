@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15627cf7-773f-4594-b046-e0c36630de7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZOaRwZtk7WC8YpxnUFhBoa603s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/create_dataset_face.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="create_dataset_face" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="nhan dien mat do an thay linh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\THOANG\AppData\Local\Programs\Python\Python37\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_dataset_face.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15627cf7-773f-4594-b046-e0c36630de7f" name="Default Changelist" comment="" />
+      <created>1584712590093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584712590093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585036598458">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728@0.0.1024.728" timestamp="1585036598458" />
+    <state x="292" y="118" key="FileChooserDialogImpl" timestamp="1585036596526">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="292" y="118" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1585036596526" />
+    <state width="1002" height="207" key="GridCell.Tab.0.bottom" timestamp="1585037048382">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1002" height="207" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1585037048382" />
+    <state width="1002" height="207" key="GridCell.Tab.0.center" timestamp="1585037048382">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1002" height="207" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1585037048382" />
+    <state width="1002" height="207" key="GridCell.Tab.0.left" timestamp="1585037048382">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1002" height="207" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1585037048382" />
+    <state width="1002" height="207" key="GridCell.Tab.0.right" timestamp="1585037048382">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1002" height="207" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1585037048382" />
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1585035836724">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1585035836724" />
+    <state x="-8" y="-8" width="512" height="728" maximized="true" key="dock-window-1" timestamp="1584754879853">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="-8" y="-8" width="512" height="728" maximized="true" key="dock-window-1/0.0.1024.728@0.0.1024.728" timestamp="1584754879853" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/button.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
